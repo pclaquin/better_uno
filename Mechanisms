@@ -1,1 +1,17 @@
+Inversion : 
+  L'inversion peut affecter une carte de manière continue ou temporaire.
+  Lorsqu'une carte est inversée, on ne considère plus que les attributs inversés.
 
+Jeu :
+  Lorsqu'une carte possédant un effect "jeu" est jouée, l'effet s'active.
+  
+Solitude : 
+  Lorsqu'une carte possédant un effet solitude est jouée, cet effet s'active si le joueur adverse n'a pas joué de carte lors du dernier tour.
+  
+  
+Limitations de jeu :
+  Certaines cartes ne peuvent être jouées que sous certaines conditions.
+  Exemple de condition : 
+    - Besoin d'un certain nombre de cartes de la même couleur en haut de la pile
+    - Besoin d'un nombre maximal / minimal de cartes en main
+    - 
