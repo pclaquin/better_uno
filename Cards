@@ -5,11 +5,11 @@ G: Color manipulation
 B: Stack manipulation
 Y: Modification of normal cards
 
-Red cards:
-   R Normal red card /i Normal red card
-   R OPP Draw 1 /i You draw 1 card
-   R OPP Draw 2, discard 1 /i Draw 1, discard 2
-    
+   R Normal red card /i R Normal red card
+   R OPP Draw 1 /i R SELF draw 1 card
+   R OPP Draw 2, discard 1 /i R OPP Draw 1, discard 2
+   R OPP Draw 2, SELF Draw 1 /i RY Total inversion
+   
 Green cards:
     Normal blue card /i Normal blue card
 
