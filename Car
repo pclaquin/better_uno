@@ -1,0 +1,25 @@
+Format : (=)X(+-)H / (R/G/B/Y/M)P
+
+R: Make him draw
+G: Color manipulation
+B: Stack manipulation
+Y: Modification of normal cards
+
+Red cards:
+   R Normal red card /i Normal red card
+   R OPP Draw 1 /i You draw 1 card
+   R OPP Draw 2, discard 1 /i Draw 1, discard 2
+    
+Green cards:
+    Normal blue card /i Normal blue card
+
+Blue cards:
+    Normal blue card /i Normal blue card
+    If played on bicolor, discard a card of one of the color /i If played on bicolor, draw a card. 
+    The player can not play bicolor cards /i OPP can play only bicolor cards
+
+Yellow cards:
+
+
+
+Multicolored : 
