@@ -11,15 +11,28 @@ Y: Modification of normal cards
    R OPP Draw 2, SELF Draw 1 /i RY Total inversion
    
 Green cards:
-    Normal blue card /i Normal blue card
-
+    Normal green card /i Normal green card 
+    When this card is inverted, discard it from your hand / When this card is inverted, draw 1 card.
+    At the start of your turn, you draw a card, you can play it for free if possible. / At the end of your turn, you draw a card, you can play it for free if possible.
+    If you cannot play over this card, draw two cards / If you cannot play over this card, draw 1 card.
+    
 Blue cards:
     Normal blue card /i Normal blue card
     If played on bicolor, discard a card of one of the color /i If played on bicolor, draw a card. 
     The player can not play bicolor cards /i OPP can play only bicolor cards
+    If played on a multicolored card, the opponent draws three cards, if not draw two cards
+    If played on a normal card, the opponent creates 
+    Give all your normal cards to the opponent / Take all the normal cards from the opponent.
+    
 
 Yellow cards:
-
+   Normal Yellow card /i Normal yellow Card
+   You give one of your cards to OPP / OPP gives you one of his cards
+   You watch the hand of the opponent and discard one card / Opponent watches your hand and makes you discard one card.
 
 
 Multicolored:
+   You discard all your bicolor cards / The opponent discards all his bicolor cards
+   You discard all your normal cards, all your other cards are inverted / Your opponent discards all his normal cards, all his other cards are inverted
+   
+   
