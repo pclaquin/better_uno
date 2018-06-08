@@ -16,25 +16,38 @@ Green cards:
     At the start of your turn, you draw a card, you can play it for free if possible. / At the end of your turn, you draw a card, you can play it for free if possible.
     If you cannot play over this card, draw two cards / If you cannot play over this card, draw 1 card.
     If the opponent cannot play, he does not draw a card / If the opponent cannot pla
-    
-    
-Blue cards:
     Normal blue card /i Normal blue card
     If played on bicolor, discard a card of one of the color /i If played on bicolor, draw a card. 
     The player can not play bicolor cards /i OPP can play only bicolor cards
     If played on a multicolored card, the opponent draws three cards, if not draw two cards
     If played on a normal card, the opponent creates 
     Give all your normal cards to the opponent / Take all the normal cards from the opponent.
-    
-
-Yellow cards:
-   Normal Yellow card /i Normal yellow Card
-   You give one of your cards to OPP / OPP gives you one of his cards
-   You watch the hand of the opponent and discard one card / Opponent watches your hand and makes you discard one card.
+    Normal Yellow card /i Normal yellow Card
+    You give one of your cards to OPP / OPP gives you one of his cards
+    You watch the hand of the opponent and discard one card / Opponent watches your hand and makes you discard one card.
+    You can change the color of the top card of the other stack
+    Draw : Discard one card, play: draw 1 card.
+    Discard : discard another card
+    Discard : the opponent draws 1
+    If a normal card is played on this one, it goes in the opponent's hand instead.
+    Famine : discard one card
+    Famine : Create a random normal card for your opponent
+    Famine : draw 1 more card
+    Famine : Opponent draws 1
+    Famine : Void the stack
+    Famine : Draw 1 change color card
+    Famine : you can play the card drawn.
+    Famine : Invert the drawn card
+    Famine : Invert one random card in your hand
+    Famine : Invert all the cards in your hand
+    Famine : Invert 1 card in your opponent's hand
+    Famine : Invert all the cards of your opponent's hand
+    Famine : Give the drawn card to your opponent
+    Famine : Draw the card from your opponent's hand
 
 
 Multicolored:
    You discard all your bicolor cards / The opponent discards all his bicolor cards
    You discard all your normal cards, all your other cards are inverted / Your opponent discards all his normal cards, all his other cards are inverted
-   
+   At the end of the turn, each player draw one card /i At the end of your turn, each player discard one card.
    
